@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/NASA-IOTD/static/css/main.20a73270.css",
+    "main.js": "/NASA-IOTD/static/js/main.b83bfb40.js",
+    "static/js/787.1957ed72.chunk.js": "/NASA-IOTD/static/js/787.1957ed72.chunk.js",
+    "static/media/logo.svg": "/NASA-IOTD/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/slick.svg": "/NASA-IOTD/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/NASA-IOTD/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/NASA-IOTD/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/NASA-IOTD/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/NASA-IOTD/index.html",
+    "main.20a73270.css.map": "/NASA-IOTD/static/css/main.20a73270.css.map",
+    "main.b83bfb40.js.map": "/NASA-IOTD/static/js/main.b83bfb40.js.map",
+    "787.1957ed72.chunk.js.map": "/NASA-IOTD/static/js/787.1957ed72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20a73270.css",
+    "static/js/main.b83bfb40.js"
+  ]
+}
